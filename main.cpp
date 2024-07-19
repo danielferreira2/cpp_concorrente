@@ -12,7 +12,6 @@ int main(){
     }   
 
 
-    delete b;
 
     return 0;
 }
